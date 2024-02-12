@@ -1,0 +1,12 @@
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\bin\Debug\Surface Area and Volume of a cylinder.exe.config
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\bin\Debug\Surface Area and Volume of a cylinder.exe
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\bin\Debug\Surface Area and Volume of a cylinder.pdb
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\bin\Debug\Surface Area and Volume of a cylinder.xml
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\obj\Debug\Surface Area and Volume of a cylinder.vbproj.AssemblyReference.cache
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\obj\Debug\Surface_Area_and_Volume_of_a_cylinder.Form1.resources
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\obj\Debug\Surface_Area_and_Volume_of_a_cylinder.Resources.resources
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\obj\Debug\Surface Area and Volume of a cylinder.vbproj.GenerateResource.cache
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\obj\Debug\Surface Area and Volume of a cylinder.vbproj.CoreCompileInputs.cache
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\obj\Debug\Surface Area and Volume of a cylinder.exe
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\obj\Debug\Surface Area and Volume of a cylinder.xml
+C:\Users\smiles\source\repos\Surface Area and Volume of a cylinder\obj\Debug\Surface Area and Volume of a cylinder.pdb
